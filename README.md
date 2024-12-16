@@ -5,3 +5,6 @@
 inspiredscout@gmail.com:123456789
 ### 2 Учетка
 inspyus@gmail.com:123456789
+### Скриншот фаербейза
+![image](https://github.com/user-attachments/assets/faca6a84-6a81-400b-b8d6-0ae3c9705586)
+
